@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "/image/babyDriver.png",
+        "selected": false
+    },
+    {
+        "id": 2,
+        "img": "/image/BadBoys.jpg",
+        "selected": false
+    },
+    {
+        "id": 3,
+        "img": "/image/BlackPanther.jpg",
+        "selected": false
+    },
+    {
+        "id": 4,
+        "img": "/image/Braveheart.jpg",
+        "selected": false
+    },
+    {
+        "id": 5,
+        "img": "/image/contraband.jpg",
+        "selected": false
+    },
+    {
+        "id": 6,
+        "img": "/image/CaptainMarvel.jpg",
+        "selected": false
+    },
+    {
+        "id": 7,
+        "img": "/image/GoodFellas.jpg",
+        "selected": false
+    },
+    {
+        "id": 8,
+        "img": "/image/hobbit.jpg",
+        "selected": false
+    },
+    {
+        "id": 9,
+        "img": "/image/hungerGames.jpg",
+        "selected": false
+    },
+    {
+        "id": 10,
+        "img": "/image/Terminator.jpg",
+        "selected": false
+    },
+    {
+        "id": 11,
+        "img": "/image/UnderWorld.jpg",
+        "selected": false
+    },
+    {
+        "id": 12,
+        "img": "/image/GuardiansGalaxy.jpg",
+        "selected": false
+    }
+]
